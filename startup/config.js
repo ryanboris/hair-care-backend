@@ -1,0 +1,2 @@
+//TODO: This will export a vital function that throws a fatal error when the following condition is true: !config.get('jwtPrivateKey`)
+//TODO: Also, the JWT functions and middleware will be put here as well when authentication is addressed.
